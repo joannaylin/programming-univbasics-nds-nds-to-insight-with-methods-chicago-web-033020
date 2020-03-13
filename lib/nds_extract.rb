@@ -25,5 +25,4 @@ def directors_totals(nds)
     gross_for_director
   end
   results.push(gross_for_director)
-  
 end
